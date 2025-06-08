@@ -9,8 +9,8 @@
 ## 🌟 About Me  
 A 23-year-old developer blending web craftsmanship with neural network curiosity. My journey started with building interactive websites, now evolving into exploring how AI can transform user experiences.  
 
-## 🛠 Технологический стек
-### 🌐 Веб-разработка
+## 🛠 Technological stack
+### 🌐 Web-Development
 
 **Core philosophy:**  
 > "Technology should simplify complexity, not create new barriers. Every line of code is a bridge between human intention and machine understanding."
