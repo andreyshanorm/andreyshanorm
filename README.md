@@ -2,8 +2,8 @@
 
 # 👨‍💻 Имя Фамилия
 **Веб-разработчик | Исследователь нейронных сетей**  
-[![Email](https://img.shields.io/badge/Email-контакт@example.com-blue?logo=gmail)](mailto:okeenlen578@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@username-blue?logo=telegram)](https://t.me/andreyshanorm)
+[![Email](https://img.shields.io/badge/okeenlen578@gmail.com-blue?logo=gmail)](mailto:okeenlen578@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@andreyshanorm-blue?logo=telegram)](https://t.me/andreyshanorm)
 
 
 ## 👋 Обо мне
