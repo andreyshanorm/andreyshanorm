@@ -21,5 +21,3 @@ graph LR
     B --> P(Python)
     D[Database] --> M(MongoDB)
     D --> S(PostgreSQL)
-    I[Infra] --> Dc(Docker)
-    I --> K(Kubernetes)
